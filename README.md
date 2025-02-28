@@ -1,3 +1,1 @@
-__Mohamed Essaied Hamrita__ is an assistant professor at IHEC (Univesity of Sousse) and head of departement Economic and Quantitative Methods. 
-
-His research topics are Time series forecasting, econometrics, financial risk management, and machine learning.
+__Mohamed Essaied Hamrita__ is an assistant professor at IHEC (University of Sousse - Tunisia) and is the head of the Department of Economic and Quantitative Methods. His research interests are time series forecasting, econometrics, financial risk management, and machine learning.
