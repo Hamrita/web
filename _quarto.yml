@@ -8,7 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: enseignements.qmd
+        text: Enseignements
+      - href: encadrements.qmd
+        text: Encadrements
+      - href: recherches.qmd
+        text: Recherches
     tools:
       - icon: facebook
         href: https://facebook.com/
